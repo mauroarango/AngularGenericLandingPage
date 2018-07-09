@@ -10,7 +10,8 @@ Pagina Web Generica en Angular
 
 
 **Install Package.Json ...**
-`npm install'
+`npm install`
+
 and wait so much...
 
 
