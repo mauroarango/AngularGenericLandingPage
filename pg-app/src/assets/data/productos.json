@@ -1,0 +1,142 @@
+[
+  {
+    "descripcion": "producto0",
+    "empresa": "ZEPITOPE",
+    "precio": 25000,
+    "imagen": "http://placehold.it/400x400",
+    "categoria": "categoria2"
+  },
+  {
+    "descripcion": "producto1",
+    "empresa": "STEELFAB",
+    "precio": 25000,
+    "imagen": "http://placehold.it/400x400",
+    "categoria": "categoria2"
+  },
+  {
+    "descripcion": "producto2",
+    "empresa": "NETAGY",
+    "precio": 25000,
+    "imagen": "http://placehold.it/400x400",
+    "categoria": "categoria3"
+  },
+  {
+    "descripcion": "producto3",
+    "empresa": "EXTRO",
+    "precio": 25000,
+    "imagen": "http://placehold.it/400x400",
+    "categoria": "categoria3"
+  },
+  {
+    "descripcion": "producto4",
+    "empresa": "SENMEI",
+    "precio": 25000,
+    "imagen": "http://placehold.it/400x400",
+    "categoria": "categoria1"
+  },
+  {
+    "descripcion": "producto5",
+    "empresa": "XURBAN",
+    "precio": 25000,
+    "imagen": "http://placehold.it/400x400",
+    "categoria": "categoria1"
+  },
+  {
+    "descripcion": "producto6",
+    "empresa": "EVIDENDS",
+    "precio": 25000,
+    "imagen": "http://placehold.it/400x400",
+    "categoria": "categoria0"
+  },
+  {
+    "descripcion": "producto7",
+    "empresa": "ISBOL",
+    "precio": 25000,
+    "imagen": "http://placehold.it/400x400",
+    "categoria": "categoria3"
+  },
+  {
+    "descripcion": "producto8",
+    "empresa": "ZILLACON",
+    "precio": 25000,
+    "imagen": "http://placehold.it/400x400",
+    "categoria": "categoria3"
+  },
+  {
+    "descripcion": "producto9",
+    "empresa": "RECRITUBE",
+    "precio": 25000,
+    "imagen": "http://placehold.it/400x400",
+    "categoria": "categoria1"
+  },
+  {
+    "descripcion": "producto10",
+    "empresa": "FIREWAX",
+    "precio": 30000,
+    "imagen": "http://placehold.it/400x400",
+    "categoria": "categoria2"
+  },
+  {
+    "descripcion": "producto11",
+    "empresa": "EGYPTO",
+    "precio": 30000,
+    "imagen": "http://placehold.it/400x400",
+    "categoria": "categoria0"
+  },
+  {
+    "descripcion": "producto12",
+    "empresa": "GLASSTEP",
+    "precio": 30000,
+    "imagen": "http://placehold.it/400x400",
+    "categoria": "categoria3"
+  },
+  {
+    "descripcion": "producto13",
+    "empresa": "ISOSURE",
+    "precio": 30000,
+    "imagen": "http://placehold.it/400x400",
+    "categoria": "categoria2"
+  },
+  {
+    "descripcion": "producto14",
+    "empresa": "HAIRPORT",
+    "precio": 25000,
+    "imagen": "http://placehold.it/400x400",
+    "categoria": "categoria2"
+  },
+  {
+    "descripcion": "producto15",
+    "empresa": "PANZENT",
+    "precio": 25000,
+    "imagen": "http://placehold.it/400x400",
+    "categoria": "categoria3"
+  },
+  {
+    "descripcion": "producto16",
+    "empresa": "PHOTOBIN",
+    "precio": 25000,
+    "imagen": "http://placehold.it/400x400",
+    "categoria": "categoria3"
+  },
+  {
+    "descripcion": "producto17",
+    "empresa": "GEEKFARM",
+    "precio": 30000,
+    "imagen": "http://placehold.it/400x400",
+    "categoria": "categoria2"
+  },
+  {
+    "descripcion": "producto18",
+    "empresa": "ZOARERE",
+    "precio": 30000,
+    "imagen": "http://placehold.it/400x400",
+    "categoria": "categoria3"
+  },
+  {
+    "descripcion": "producto19",
+    "empresa": "MEDMEX",
+    "precio": 30000,
+    "imagen": "http://placehold.it/400x400",
+    "categoria": "categoria3"
+  }
+]

@@ -1,0 +1,118 @@
+{
+  "categoria0": [
+    {
+      "descripcion": "producto0",
+      "empresa": "STEELTAB",
+      "precio": 30000,
+      "imagen": "http://placehold.it/400x400"
+    },
+    {
+      "descripcion": "producto1",
+      "empresa": "QUILM",
+      "precio": 25000,
+      "imagen": "http://placehold.it/400x400"
+    },
+    {
+      "descripcion": "producto2",
+      "empresa": "WARETEL",
+      "precio": 25000,
+      "imagen": "http://placehold.it/400x400"
+    },
+    {
+      "descripcion": "producto3",
+      "empresa": "DIGIAL",
+      "precio": 30000,
+      "imagen": "http://placehold.it/400x400"
+    },
+    {
+      "descripcion": "producto4",
+      "empresa": "MIRACULA",
+      "precio": 30000,
+      "imagen": "http://placehold.it/400x400"
+    },
+    {
+      "descripcion": "producto5",
+      "empresa": "CONFERIA",
+      "precio": 30000,
+      "imagen": "http://placehold.it/400x400"
+    }
+  ],
+  "categoria1": [
+    {
+      "descripcion": "producto0",
+      "empresa": "ACCUPHARM",
+      "precio": 30000,
+      "imagen": "http://placehold.it/400x400"
+    },
+    {
+      "descripcion": "producto1",
+      "empresa": "INDEXIA",
+      "precio": 30000,
+      "imagen": "http://placehold.it/400x400"
+    },
+    {
+      "descripcion": "producto2",
+      "empresa": "IMAGEFLOW",
+      "precio": 25000,
+      "imagen": "http://placehold.it/400x400"
+    }
+  ],
+  "categoria2": [
+    {
+      "descripcion": "producto0",
+      "empresa": "ACCIDENCY",
+      "precio": 25000,
+      "imagen": "http://placehold.it/400x400"
+    },
+    {
+      "descripcion": "producto1",
+      "empresa": "MAXIMIND",
+      "precio": 25000,
+      "imagen": "http://placehold.it/400x400"
+    },
+    {
+      "descripcion": "producto2",
+      "empresa": "MUSIX",
+      "precio": 25000,
+      "imagen": "http://placehold.it/400x400"
+    },
+    {
+      "descripcion": "producto3",
+      "empresa": "WAZZU",
+      "precio": 25000,
+      "imagen": "http://placehold.it/400x400"
+    },
+    {
+      "descripcion": "producto4",
+      "empresa": "VERBUS",
+      "precio": 25000,
+      "imagen": "http://placehold.it/400x400"
+    }
+  ],
+  "categoria3": [
+    {
+      "descripcion": "producto0",
+      "empresa": "PROXSOFT",
+      "precio": 30000,
+      "imagen": "http://placehold.it/400x400"
+    },
+    {
+      "descripcion": "producto1",
+      "empresa": "BUZZMAKER",
+      "precio": 30000,
+      "imagen": "http://placehold.it/400x400"
+    },
+    {
+      "descripcion": "producto2",
+      "empresa": "ZOSIS",
+      "precio": 30000,
+      "imagen": "http://placehold.it/400x400"
+    },
+    {
+      "descripcion": "producto3",
+      "empresa": "ZENTURY",
+      "precio": 25000,
+      "imagen": "http://placehold.it/400x400"
+    }
+  ]
+}
