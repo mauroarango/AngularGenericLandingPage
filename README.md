@@ -8,6 +8,8 @@ Pagina Web Generica en Angular
 # Install Angular Cli
 `npm install -g @angular/cli`
 
+`cd pg-app`
+
 
 **Install Package.Json ...**
 `npm install`
